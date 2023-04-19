@@ -1,0 +1,2 @@
+# flattenArrAndCalculateCharFreq
+Created with CodeSandbox
